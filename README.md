@@ -16,6 +16,12 @@ The project focuses on using PostgreSQL to answer practical questions around ser
 
 **How can operational and financial healthcare data be queried together to identify patterns that matter for service performance?**
 
+## SQL file
+
+[View the complete Lumina SQL analysis](01_sql/Lumina%20Healthcare%20SQL%20File.sql)
+
+The SQL file contains the complete analysis used in this project, including admissions, recovery, readmissions, department performance, revenue, insurance coverage, patient payments and time-based analysis.
+
 ## Tools and SQL techniques
 
 - PostgreSQL
@@ -69,9 +75,7 @@ Treatment costs, insurance, payments and revenue examined alongside service acti
 
 ```text
 01_sql/
-  ├── analysis.sql
-  ├── readmissions.sql
-  ├── financial-analysis.sql
+  ├── Lumina Healthcare SQL File.sql
   └── README.md
 
 02_database/
