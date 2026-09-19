@@ -32,3 +32,5 @@ jobs:
             git commit -m "Add Lumina project preview"
             git push
           fi
+
+# one-off trigger
